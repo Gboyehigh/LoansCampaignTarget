@@ -1,2 +1,2 @@
 # LoansCampaignTarget
-A classification ML model that identifies existing liability customers in a bank that are more likely to buy a loan.
+A classification ML model that identifies existing liability customers,who are more likely to buy a loan in a bank.
